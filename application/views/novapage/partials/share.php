@@ -1,0 +1,6 @@
+<div class="social-share">
+	Share :
+	<script language="javascript">
+		document.write("<li><a href='https://www.facebook.com/sharer/sharer.php?u=" + document.URL + " ' target='_blank' class='custom-soc icon-text'><span class='fab fa-facebook' aria-hidden='true'></span></a></li> "+"<li><a href='http://twitter.com/intent/tweet?text=" + document.URL + "' target='_blank' ><span class='fab fa-twitter' aria-hidden='true'></span></a></li> "+"<li><a href='https://www.linkedin.com/shareArticle?mini=true&url=" + document.URL + "' target='_blank' ><span class='fab fa-linkedin' aria-hidden='true'></span></a></li> "+"<li><a href='https://pinterest.com/pin/create/button/?url=" + document.URL + "' target='_blank' ><span class='fab fa-pinterest' aria-hidden='true'></span></a></li> "+"<li><a href='http://instagram.com/home/?status=" + document.URL + "' target='_blank' ><span class='fab fa-instagram' aria-hidden='true'></span></a></li> "+"<li><a href='http://telegram.com/home/?status=" + document.URL + "' target='_blank' ><span class='fab fa-telegram' aria-hidden='true'></span></a></li> "+"<li><a href='https://api.whatsapp.com/send?text=" + document.URL + "' target='_blank' ><span class='fab fa-whatsapp' aria-hidden='true'></span></a></li> ");
+	</script>
+</div>
